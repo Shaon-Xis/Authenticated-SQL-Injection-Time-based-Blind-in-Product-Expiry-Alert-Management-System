@@ -45,7 +45,7 @@ By exploiting this flaw, the attacker can extract sensitive data from the `users
 - **Email**: newleastpaysolution@gmail.com
 - **Password**: (Plaintext credentials exposed)
 
-<img width="2542" height="1424" alt="f50bf89eff662e07bd8a1b1dc83c1ece" src="https://github.com/user-attachments/assets/3c70ce30-b23d-41f7-a741-f6689344c4bf" />
+<img width="2542" height="1424" alt="cff726a6367be83fa84aca23cd3f885c" src="https://github.com/user-attachments/assets/4c4eb86f-27d1-4c8b-a9e8-f39c9c3acdb2" />
 
 ---
 
